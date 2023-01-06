@@ -1,8 +1,0 @@
-{
-    "name": "HACS Integration Development",
-    "image": "mcr.microsoft.com/vscode/devcontainers/python:0-3.11-bullseye",
-    "remoteUser": "vscode",
-    "features": {
-      "ghcr.io/devcontainers/features/node:1": {}
-    }
-  }
